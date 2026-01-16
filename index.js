@@ -35,6 +35,7 @@ app.use(
       "https://deploy-mern-1whq.vercel.app",
       "http://localhost:5173",
       "https://expense-tracker-mu-sage-83.vercel.app",
+      "https://expense-tracker-frontend-seven-nu.vercel.app",
     ],
     methods: "*",
     allowedHeaders: ["Content-Type", "Authorization"],
